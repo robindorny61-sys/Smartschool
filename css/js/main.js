@@ -7,7 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const username = document.getElementById('username').value;
             const password = document.getElementById('password').value;
             alert(`Inloggen: ${username}`);
-            // hier komt later echte login
+            /const testUser = {
+        username: 'admin',
+        password: '1234'/ 
         });
     }
 });
